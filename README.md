@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Bem-vindo ao meu perfil no GitHub!</h1>
-    <p>Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia.</p>
+    <p>Olá! Eu sou alien👽ghost👻, um desenvolvedor apaixonado por tecnologia.</p>
     <h2>Meus Projetos</h2>
     <ul>
         <li><a href="https://github.com/seu-usuario/projeto1">Projeto 1</a></li>
